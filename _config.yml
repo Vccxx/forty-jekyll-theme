@@ -1,16 +1,16 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: JiaWei Jiang 's Blog
+subtitle: H4ck1ng 1s f4n!
+email: vccxx@hit.edu.cn
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "Vccxx.github.cn" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: China
 phone: (716) 555-5555
 
 # Homepage tiles
