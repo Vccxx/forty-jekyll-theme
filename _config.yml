@@ -1,16 +1,16 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: H4cKL0v3r’s Blog
+subtitle: hacking is fun :)
+email: vccxx@hit.edu.cn
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/vccxx.github.io" # the subpath of your site, e.g. /blog
+url: "https://vccxx.github.com" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: Paradise 65536
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: China
 phone: (716) 555-5555
 
 # Homepage tiles
